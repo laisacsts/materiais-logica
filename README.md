@@ -3,7 +3,7 @@
 </p>
 
 
-### >> aqui você vai encontrar materiais para estudar/revisar conteúdos sobre lógica.
+### >> aqui você vai encontrar materiais para aprender/estudar/revisar conteúdos sobre lógica.
 ___
 o emoji: 🖥️ indica material em vídeo || o emoji: 📔 indica material em texto
 
