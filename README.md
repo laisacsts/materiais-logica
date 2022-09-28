@@ -14,3 +14,6 @@ o emoji: 🖥️ indica material em vídeo || o emoji: 📔 indica material em t
 - 📔 [apostila de lógica ufrn I](https://drive.google.com/file/d/1Ytq2QkE8y2vfvX1wy8nwmKMZLQtoC2cW/view?usp=sharing)
 - 📔 [apostila de lógica ufrn II](https://drive.google.com/file/d/1_iKBsxuuYgEdKVqeCD3RNJSKs20uuoha/view?usp=sharing)
 - 📔 [apostila de lógica uff](https://drive.google.com/file/d/1A9Spcox_9FgtA0XRorJobXFUzygQwkTB/view?usp=sharing)
+- 📔 [apostila de lógica faccat](https://drive.google.com/drive/u/1/folders/1nVOX12V6bU8tles895AOsZ1NIkgJL6ev)
+- 📔 [lista de exercícios I](https://drive.google.com/drive/u/1/folders/1nVOX12V6bU8tles895AOsZ1NIkgJL6ev)
+- 📔 [lista de exercícios II](https://drive.google.com/drive/u/1/folders/1nVOX12V6bU8tles895AOsZ1NIkgJL6ev)
