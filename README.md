@@ -21,5 +21,5 @@ ___
 - 📔 [apostila de lógica faccat](https://drive.google.com/drive/u/1/folders/1nVOX12V6bU8tles895AOsZ1NIkgJL6ev)
 
 ### exercícios:
-- 📝 [lista de exercícios I](https://drive.google.com/drive/u/1/folders/1nVOX12V6bU8tles895AOsZ1NIkgJL6ev)
-- 📝 [lista de exercícios II](https://drive.google.com/drive/u/1/folders/1nVOX12V6bU8tles895AOsZ1NIkgJL6ev)
+- 📝 [lista de exercícios I](https://drive.google.com/file/d/1WcFcWPI5de2w0QexzZH2QZA9kWYvBnCw/view?usp=sharing)
+- 📝 [lista de exercícios II](https://drive.google.com/file/d/1gNSfi4879K5zPuNW2PVUVNYiD7dredAG/view?usp=sharing)
