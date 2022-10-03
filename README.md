@@ -15,10 +15,9 @@ ___
 
 ### apostilas:
 - 📔 [apostila de lógica unicamp](https://drive.google.com/file/d/1XMhoE3n5TRRh_FSywOT3ubWa-nQZwuvW/view?usp=sharing)
-- 📔 [apostila de lógica ufrn I](https://drive.google.com/file/d/1Ytq2QkE8y2vfvX1wy8nwmKMZLQtoC2cW/view?usp=sharing)
-- 📔 [apostila de lógica ufrn II](https://drive.google.com/file/d/1_iKBsxuuYgEdKVqeCD3RNJSKs20uuoha/view?usp=sharing)
-- 📔 [apostila de lógica uff](https://drive.google.com/file/d/1A9Spcox_9FgtA0XRorJobXFUzygQwkTB/view?usp=sharing)
-- 📔 [apostila de lógica faccat](https://drive.google.com/drive/u/1/folders/1nVOX12V6bU8tles895AOsZ1NIkgJL6ev)
+- 📔 [apostila de lógica ufrn](https://drive.google.com/file/d/1nllJejvUHoWRzv9UGuat40AWSOtUu3Fd/view?usp=sharing)
+- 📔 [apostila de lógica iff](https://drive.google.com/file/d/1A9Spcox_9FgtA0XRorJobXFUzygQwkTB/view?usp=sharing)
+- 📔 [apostila de lógica faccat](https://drive.google.com/file/d/15A1H87Rkh6sxiMCPaAzfG_NZly5jsqQX/view?usp=sharing)
 
 ### exercícios:
 - 📝 [lista de exercícios I](https://drive.google.com/file/d/1WcFcWPI5de2w0QexzZH2QZA9kWYvBnCw/view?usp=sharing)
