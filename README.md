@@ -20,6 +20,11 @@ ___
 - 📔 [apostila de lógica iff](https://drive.google.com/file/d/1A9Spcox_9FgtA0XRorJobXFUzygQwkTB/view?usp=sharing)
 - 📔 [apostila de lógica faccat](https://drive.google.com/file/d/15A1H87Rkh6sxiMCPaAzfG_NZly5jsqQX/view?usp=sharing)
 
+### livros:
+- 📚 [algoritmos para viver](https://drive.google.com/file/d/1gyYGpoeSvXbW7LJ5qk8jpZtYqM5LHB9j/view?usp=sharing)
+- 📚 [um prelúdio a lógica](https://drive.google.com/file/d/1eZr0IKbm7eT_jN2R-aDKBhhwzeRx8JlV/view?usp=sharing)
+- 📚 [algoritmos e lógica de programação](https://drive.google.com/file/d/1WuJkh0fB5CzeB0YWtrzUQtIQq5JkMhLU/view?usp=sharing)
+
 ### exercícios:
 - 📝 [lista de exercícios I](https://drive.google.com/file/d/1WcFcWPI5de2w0QexzZH2QZA9kWYvBnCw/view?usp=sharing)
 - 📝 [lista de exercícios II](https://drive.google.com/file/d/1gNSfi4879K5zPuNW2PVUVNYiD7dredAG/view?usp=sharing)
