@@ -1,6 +1,4 @@
-# >> Lógica na faixa <<
-
-## Sobre o repo:
+## >> Sobre o repo <<
 - O objetivo desse repositório é organizar e compartilhar alguns materiais sobre lógica de programação para auxiliar iniciantes na área de tecnologia e/ou pessoas interessadas no assunto.
 
 - Os materiais disponibilizados aqui são fruto das minhas pesquisas em busca de conteúdos acessíveis para utilizar nos meus estudos, não é necessário nenhum conhecimento específico para estudá-los.
